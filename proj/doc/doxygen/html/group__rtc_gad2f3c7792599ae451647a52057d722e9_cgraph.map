@@ -1,0 +1,6 @@
+<map id="enable_or_disable_rtc" name="enable_or_disable_rtc">
+<area shape="rect" id="node1" title="Enables or disables the RTC periodic interrupts." alt="" coords="5,31,153,57"/>
+<area shape="rect" id="node2" href="$group__rtc.html#gabb7299537c552eb9af566f67b2ee6622" title="Reads the value of RTC_DATA_REG into st." alt="" coords="205,5,300,32"/>
+<area shape="rect" id="node4" href="$group__rtc.html#ga9c9584e3e2abd648860a1aac266917a2" title="Writes the cmd to the RTC_ADDR_REG." alt="" coords="201,56,304,83"/>
+<area shape="rect" id="node3" href="$group__utils.html#ga79a031a8611f5b2d6afa4158e92b0fb4" title="Invokes sys_inb() system call but reads the value into a uint8_t variable." alt="" coords="352,5,443,32"/>
+</map>

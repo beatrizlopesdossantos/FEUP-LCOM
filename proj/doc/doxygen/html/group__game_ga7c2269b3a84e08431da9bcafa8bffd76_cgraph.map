@@ -1,0 +1,5 @@
+<map id="changeFruitsPos" name="changeFruitsPos">
+<area shape="rect" id="node1" title="Changes the fruit position so it doesn&#39;t fall on the same place." alt="" coords="5,5,125,32"/>
+<area shape="rect" id="node2" href="$group__sprite.html#gaed4c55752c011c845c8ba16545ef146d" title="This function destroys a food created before." alt="" coords="173,5,269,32"/>
+<area shape="rect" id="node3" href="$group__sprite.html#gaf16c6befaac9ffb673b9e3c798d542ed" title="This function destroys a sprite created before." alt="" coords="317,5,421,32"/>
+</map>

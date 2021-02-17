@@ -1,0 +1,9 @@
+<map id="rtc_ih" name="rtc_ih">
+<area shape="rect" id="node1" title="RTC interrupt handler." alt="" coords="5,80,60,107"/>
+<area shape="rect" id="node2" href="$group__rtc.html#gabb7299537c552eb9af566f67b2ee6622" title="Reads the value of RTC_DATA_REG into st." alt="" coords="272,55,367,81"/>
+<area shape="rect" id="node4" href="$group__rtc.html#ga538f170b6ccf4ec4e226f1badf7b9b9b" title="Reads the day." alt="" coords="115,29,213,56"/>
+<area shape="rect" id="node5" href="$group__rtc.html#ga9c9584e3e2abd648860a1aac266917a2" title="Writes the cmd to the RTC_ADDR_REG." alt="" coords="268,105,371,132"/>
+<area shape="rect" id="node6" href="$group__rtc.html#gadbac9c4ab40d6ad7b9f38fde604b0e8f" title="Reads the month." alt="" coords="108,80,220,107"/>
+<area shape="rect" id="node7" href="$group__rtc.html#gac6342e82ae1f9435815854c6a76c68a8" title="Reads the year." alt="" coords="113,131,215,157"/>
+<area shape="rect" id="node3" href="$group__utils.html#ga79a031a8611f5b2d6afa4158e92b0fb4" title="Invokes sys_inb() system call but reads the value into a uint8_t variable." alt="" coords="419,55,509,81"/>
+</map>

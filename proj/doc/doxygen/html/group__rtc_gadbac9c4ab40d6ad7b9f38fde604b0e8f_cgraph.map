@@ -1,0 +1,6 @@
+<map id="rtc_read_month" name="rtc_read_month">
+<area shape="rect" id="node1" title="Reads the month." alt="" coords="5,31,117,57"/>
+<area shape="rect" id="node2" href="$group__rtc.html#gabb7299537c552eb9af566f67b2ee6622" title="Reads the value of RTC_DATA_REG into st." alt="" coords="169,5,264,32"/>
+<area shape="rect" id="node4" href="$group__rtc.html#ga9c9584e3e2abd648860a1aac266917a2" title="Writes the cmd to the RTC_ADDR_REG." alt="" coords="165,56,268,83"/>
+<area shape="rect" id="node3" href="$group__utils.html#ga79a031a8611f5b2d6afa4158e92b0fb4" title="Invokes sys_inb() system call but reads the value into a uint8_t variable." alt="" coords="316,5,407,32"/>
+</map>

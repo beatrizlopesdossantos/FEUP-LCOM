@@ -1,0 +1,7 @@
+<map id="exit_game" name="exit_game">
+<area shape="rect" id="node1" title="Prepares the screen to exit the game." alt="" coords="5,56,88,83"/>
+<area shape="rect" id="node2" href="$group__video.html#gaeeab5fc0ec45f27cbc59b6a2d4a432af" title="Clears the second buffer." alt="" coords="136,5,241,32"/>
+<area shape="rect" id="node3" href="$group__sprite.html#ga858c1454a817fd7dca9e21bafa491242" title="This function draws a sprite on the screen." alt="" coords="145,56,233,83"/>
+<area shape="rect" id="node5" href="$group__video.html#ga5f2e190b8261a98c97c2ea4e86670d54" title="Updates the memory used in video_mem." alt="" coords="158,107,219,133"/>
+<area shape="rect" id="node4" href="$group__video.html#ga599c36a256152375631d859d2ae4810c" title="Colors the pixel with the position indicated." alt="" coords="289,56,392,83"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="vbe_get_mode_info_mine" name="vbe_get_mode_info_mine">
+<area shape="rect" id="node1" title="Returns information on the input VBE mode, including screen dimensions, color depth and VRAM physical..." alt="" coords="428,5,595,32"/>
+<area shape="rect" id="node2" href="$group__video.html#gaa6c1ff5024cd4d15e476bce487584daa" title="Initializes the video module in graphics mode." alt="" coords="321,5,380,32"/>
+<area shape="rect" id="node3" href="$group__initiate.html#gab764be50fa66af80c01993e86d0ab7d1" title="This function has all the funtions necessary to initialize minix right." alt="" coords="163,5,273,32"/>
+<area shape="rect" id="node4" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,5,115,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="destroy_food" name="destroy_food">
+<area shape="rect" id="node1" title="This function destroys a food created before." alt="" coords="5,5,101,32"/>
+<area shape="rect" id="node2" href="$group__sprite.html#gaf16c6befaac9ffb673b9e3c798d542ed" title="This function destroys a sprite created before." alt="" coords="149,5,253,32"/>
+</map>

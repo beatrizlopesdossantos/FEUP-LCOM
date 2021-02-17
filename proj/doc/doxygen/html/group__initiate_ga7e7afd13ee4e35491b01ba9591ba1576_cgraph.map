@@ -1,0 +1,4 @@
+<map id="create_sprites" name="create_sprites">
+<area shape="rect" id="node1" title="Create all sprites objects." alt="" coords="5,5,109,32"/>
+<area shape="rect" id="node2" href="$group__sprite.html#ga064047d5400d362fc389e00843967e57" title="This function creates a sprite with the corresponding xpm." alt="" coords="157,5,255,32"/>
+</map>

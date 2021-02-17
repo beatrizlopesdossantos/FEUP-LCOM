@@ -1,0 +1,4 @@
+<map id="Food" name="Food">
+<area shape="rect" id="node1" title="Struct type to safe the foods caracteristics." alt="" coords="5,263,81,340"/>
+<area shape="rect" id="node2" href="$struct_sprite.html" title="Struct type to safe the sprites caracteristics." alt="" coords="5,5,81,200"/>
+</map>

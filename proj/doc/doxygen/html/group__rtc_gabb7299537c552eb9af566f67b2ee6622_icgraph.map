@@ -1,0 +1,11 @@
+<map id="read_reg_rtc" name="read_reg_rtc">
+<area shape="rect" id="node1" title="Reads the value of RTC_DATA_REG into st." alt="" coords="517,107,612,133"/>
+<area shape="rect" id="node2" href="$group__rtc.html#gad2f3c7792599ae451647a52057d722e9" title="Enables or disables the RTC periodic interrupts." alt="" coords="321,5,469,32"/>
+<area shape="rect" id="node6" href="$group__rtc.html#ga8a19c53655a7fc4287ea43928030bc53" title="RTC interrupt handler." alt="" coords="191,107,245,133"/>
+<area shape="rect" id="node7" href="$group__rtc.html#ga538f170b6ccf4ec4e226f1badf7b9b9b" title="Reads the day." alt="" coords="347,107,444,133"/>
+<area shape="rect" id="node8" href="$group__rtc.html#gadbac9c4ab40d6ad7b9f38fde604b0e8f" title="Reads the month." alt="" coords="339,157,451,184"/>
+<area shape="rect" id="node9" href="$group__rtc.html#gac6342e82ae1f9435815854c6a76c68a8" title="Reads the year." alt="" coords="345,208,446,235"/>
+<area shape="rect" id="node3" href="$group__initiate.html#ga1069738f553b2412c94ce3278b74c656" title="This function has all the funtions necessary to terminate minix right." alt="" coords="177,5,259,32"/>
+<area shape="rect" id="node5" href="$group__initiate.html#gab764be50fa66af80c01993e86d0ab7d1" title="This function has all the funtions necessary to initialize minix right." alt="" coords="163,56,273,83"/>
+<area shape="rect" id="node4" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,56,115,83"/>
+</map>

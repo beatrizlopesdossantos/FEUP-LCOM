@@ -1,0 +1,4 @@
+<map id="choose_food" name="choose_food">
+<area shape="rect" id="node1" title="Randomly chooses the food to fall." alt="" coords="5,5,100,32"/>
+<area shape="rect" id="node2" href="$group__sprite.html#ga272ff7a85f251472d3a70856bce9c34f" title="This function creates the food with the corresponding xpm." alt="" coords="148,5,237,32"/>
+</map>

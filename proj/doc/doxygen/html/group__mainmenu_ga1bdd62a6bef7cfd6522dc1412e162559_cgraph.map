@@ -1,0 +1,5 @@
+<map id="show_cursor" name="show_cursor">
+<area shape="rect" id="node1" title="This function shows the cursor." alt="" coords="5,5,100,32"/>
+<area shape="rect" id="node2" href="$group__sprite.html#ga858c1454a817fd7dca9e21bafa491242" title="This function draws a sprite on the screen." alt="" coords="148,5,236,32"/>
+<area shape="rect" id="node3" href="$group__video.html#ga599c36a256152375631d859d2ae4810c" title="Colors the pixel with the position indicated." alt="" coords="284,5,387,32"/>
+</map>

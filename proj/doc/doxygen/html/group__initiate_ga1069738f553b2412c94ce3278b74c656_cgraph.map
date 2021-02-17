@@ -1,0 +1,13 @@
+<map id="exit_minix" name="exit_minix">
+<area shape="rect" id="node1" title="This function has all the funtions necessary to terminate minix right." alt="" coords="5,157,87,184"/>
+<area shape="rect" id="node2" href="$group__rtc.html#gad2f3c7792599ae451647a52057d722e9" title="Enables or disables the RTC periodic interrupts." alt="" coords="162,31,310,57"/>
+<area shape="rect" id="node6" href="$group__keyboard.html#gaee0a7b54ee426fade9c780418d110fe0" title=" " alt="" coords="165,81,307,108"/>
+<area shape="rect" id="node7" href="$group__mouse.html#ga438b8afe1dcd09d29df6de0081705660" title=" " alt="" coords="135,132,337,159"/>
+<area shape="rect" id="node9" href="$group__mouse.html#ga3ecf823d80520009ae5e0d76ae40a3c3" title=" " alt="" coords="157,183,315,209"/>
+<area shape="rect" id="node10" href="$group__rtc.html#gab8f17bf5280c908c8b199a90fefcc758" title="Unsubscribes RTC 8 interrupts." alt="" coords="169,233,303,260"/>
+<area shape="rect" id="node11" href="$group__timer.html#gafabd21de449be154dd65d5fdb2d8045d" title="Unsubscribes Timer 0 interrupts." alt="" coords="161,284,311,311"/>
+<area shape="rect" id="node3" href="$group__rtc.html#gabb7299537c552eb9af566f67b2ee6622" title="Reads the value of RTC_DATA_REG into st." alt="" coords="393,5,487,32"/>
+<area shape="rect" id="node5" href="$group__rtc.html#ga9c9584e3e2abd648860a1aac266917a2" title="Writes the cmd to the RTC_ADDR_REG." alt="" coords="389,56,491,83"/>
+<area shape="rect" id="node4" href="$group__utils.html#ga79a031a8611f5b2d6afa4158e92b0fb4" title="Invokes sys_inb() system call but reads the value into a uint8_t variable." alt="" coords="543,107,633,133"/>
+<area shape="rect" id="node8" href="$group__mouse.html#ga143ea972ce4b903c2c82014d31cdbab4" title=" " alt="" coords="385,157,495,184"/>
+</map>

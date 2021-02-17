@@ -1,0 +1,11 @@
+<map id="destroy_sprite" name="destroy_sprite">
+<area shape="rect" id="node1" title="This function destroys a sprite created before." alt="" coords="661,31,765,57"/>
+<area shape="rect" id="node2" href="$group__initiate.html#ga96f1b31dfabf979c2ebf3129e9f7aa6e" title="Destroys all sprites objects." alt="" coords="163,5,293,32"/>
+<area shape="rect" id="node4" href="$group__sprite.html#gaed4c55752c011c845c8ba16545ef146d" title="This function destroys a food created before." alt="" coords="517,81,613,108"/>
+<area shape="rect" id="node3" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,44,115,71"/>
+<area shape="rect" id="node5" href="$group__game.html#ga7c2269b3a84e08431da9bcafa8bffd76" title="Changes the fruit position so it doesn&#39;t fall on the same place." alt="" coords="345,31,465,57"/>
+<area shape="rect" id="node7" href="$group__game.html#gab6439fcc57ab9cb6bdd74eff67bbb775" title="Checks if fruit touched the flor or the man." alt="" coords="348,81,463,108"/>
+<area shape="rect" id="node8" href="$group__game.html#gae3876ac6e290affc15502b37acdd94b1" title="Checks if the cursor has destroyed the fruit." alt="" coords="341,132,469,159"/>
+<area shape="rect" id="node9" href="$group__game.html#ga572f04263843bfa2c7fc75c40e14f21b" title="Destroys the fruit." alt="" coords="363,183,448,209"/>
+<area shape="rect" id="node6" href="$group__game.html#gad378897028322988691f83db390b70b4" title="Main function of the project that does all the logic of the game." alt="" coords="196,81,260,108"/>
+</map>

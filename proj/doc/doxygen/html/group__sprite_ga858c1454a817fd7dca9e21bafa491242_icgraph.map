@@ -1,0 +1,18 @@
+<map id="draw_sprite" name="draw_sprite">
+<area shape="rect" id="node1" title="This function draws a sprite on the screen." alt="" coords="527,335,615,361"/>
+<area shape="rect" id="node2" href="$group__game.html#ga90044fe413b2f9279d718184c79f9884" title="Draws the fruit on the screen." alt="" coords="357,56,435,83"/>
+<area shape="rect" id="node3" href="$group__game.html#gad378897028322988691f83db390b70b4" title="Main function of the project that does all the logic of the game." alt="" coords="182,309,246,336"/>
+<area shape="rect" id="node5" href="$group__game.html#ga4a1226d4e2a99b9251570348c7670641" title="Prepares the screen to exit the game." alt="" coords="355,157,437,184"/>
+<area shape="rect" id="node6" href="$group__game.html#ga7e699ef004ed7fbe7704d437b4b55284" title="Draws the backgroung of the game on the screen with the pause button." alt="" coords="333,208,459,235"/>
+<area shape="rect" id="node7" href="$group__mainmenu.html#ga1bdd62a6bef7cfd6522dc1412e162559" title="This function shows the cursor." alt="" coords="349,5,443,32"/>
+<area shape="rect" id="node8" href="$group__mainmenu.html#ga3d7cdb6af030552714ec59827277aebe" title="This function shows the entrace to the restaurant and the necessary buttons." alt="" coords="163,512,265,539"/>
+<area shape="rect" id="node9" href="$group__mainmenu.html#ga04895ab05b6c5a5351fc28477d41d6ab" title="This function shows the game over menu and the necessary buttons." alt="" coords="316,259,476,285"/>
+<area shape="rect" id="node10" href="$mainmenu_8c.html#aa775873503da6eb23e9d9be4090824c2" title=" " alt="" coords="313,309,479,336"/>
+<area shape="rect" id="node11" href="$group__game.html#gac04d0e687ab074cc7f0235eea84f77ef" title="Draws the hearts on the screen." alt="" coords="354,360,438,387"/>
+<area shape="rect" id="node12" href="$group__game.html#ga8eeba02c592331fc4dc0bd3706dc24db" title="Draws the player on the screen." alt="" coords="354,411,438,437"/>
+<area shape="rect" id="node13" href="$group__mainmenu.html#gaf67480724089637b55a8148566870f16" title="This function shows the menu of the game and the necessary buttons." alt="" coords="351,461,441,488"/>
+<area shape="rect" id="node14" href="$group__mainmenu.html#gaa189fd45f846dd118a06e09e9f330671" title="This function shows the pause and the necessary buttons." alt="" coords="329,512,463,539"/>
+<area shape="rect" id="node15" href="$group__highscores.html#gaa7354914bc332dd365fc8e21bc648587" title="Shows the points that the player is making in the game." alt="" coords="349,563,443,589"/>
+<area shape="rect" id="node16" href="$group__highscores.html#ga1f5121701b8f4882c2a04d18a9ce2abb" title="Shows the highscore table and the date that the point were made." alt="" coords="351,613,441,640"/>
+<area shape="rect" id="node4" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,309,115,336"/>
+</map>

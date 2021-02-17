@@ -1,0 +1,52 @@
+<map id="proj_main_loop" name="proj_main_loop">
+<area shape="rect" id="node1" title=" " alt="" coords="5,1622,115,1648"/>
+<area shape="rect" id="node2" href="$group__video.html#gaeeab5fc0ec45f27cbc59b6a2d4a432af" title="Clears the second buffer." alt="" coords="592,1166,697,1192"/>
+<area shape="rect" id="node3" href="$group__initiate.html#ga7e7afd13ee4e35491b01ba9591ba1576" title="Create all sprites objects." alt="" coords="176,1419,280,1446"/>
+<area shape="rect" id="node5" href="$group__initiate.html#ga96f1b31dfabf979c2ebf3129e9f7aa6e" title="Destroys all sprites objects." alt="" coords="163,1520,293,1547"/>
+<area shape="rect" id="node7" href="$group__initiate.html#ga1069738f553b2412c94ce3278b74c656" title="This function has all the funtions necessary to terminate minix right." alt="" coords="187,1672,269,1699"/>
+<area shape="rect" id="node14" href="$group__game.html#gad378897028322988691f83db390b70b4" title="Main function of the project that does all the logic of the game." alt="" coords="196,684,260,711"/>
+<area shape="rect" id="node27" href="$group__video.html#ga5f2e190b8261a98c97c2ea4e86670d54" title="Updates the memory used in video_mem." alt="" coords="614,1267,675,1294"/>
+<area shape="rect" id="node29" href="$group__mainmenu.html#ga1bdd62a6bef7cfd6522dc1412e162559" title="This function shows the cursor." alt="" coords="395,51,490,78"/>
+<area shape="rect" id="node39" href="$group__initiate.html#gab764be50fa66af80c01993e86d0ab7d1" title="This function has all the funtions necessary to initialize minix right." alt="" coords="173,1622,283,1648"/>
+<area shape="rect" id="node44" href="$group__keyboard.html#gaea970a154161a35f6894898a092ed70a" title=" " alt="" coords="198,1723,258,1750"/>
+<area shape="rect" id="node45" href="$group__initiate.html#gac82e7d55ed069f5d0c396c20b97337e9" title="Loads all the xpms to its corresponding array." alt="" coords="185,1774,271,1800"/>
+<area shape="rect" id="node46" href="$group__mouse.html#ga210374b50462acdedab00df64d5cea3c" title=" " alt="" coords="189,1824,267,1851"/>
+<area shape="rect" id="node47" href="$group__mouse.html#gac50499381730d2bf8d1f8a801cda27a6" title=" " alt="" coords="178,1875,278,1902"/>
+<area shape="rect" id="node48" href="$group__rtc.html#ga8a19c53655a7fc4287ea43928030bc53" title="RTC interrupt handler." alt="" coords="201,1926,255,1952"/>
+<area shape="rect" id="node49" href="$group__mainmenu.html#ga3d7cdb6af030552714ec59827277aebe" title="This function shows the entrace to the restaurant and the necessary buttons." alt="" coords="177,127,279,154"/>
+<area shape="rect" id="node50" href="$group__timer.html#ga91a2072306c68353712a6b771287dc2c" title="Timer 0 interrupt handler." alt="" coords="167,1976,289,2003"/>
+<area shape="rect" id="node4" href="$group__sprite.html#ga064047d5400d362fc389e00843967e57" title="This function creates a sprite with the corresponding xpm." alt="" coords="394,1419,491,1446"/>
+<area shape="rect" id="node6" href="$group__sprite.html#gaf16c6befaac9ffb673b9e3c798d542ed" title="This function destroys a sprite created before." alt="" coords="391,1470,495,1496"/>
+<area shape="rect" id="node8" href="$group__rtc.html#gad2f3c7792599ae451647a52057d722e9" title="Enables or disables the RTC periodic interrupts." alt="" coords="369,1723,517,1750"/>
+<area shape="rect" id="node9" href="$group__keyboard.html#gaee0a7b54ee426fade9c780418d110fe0" title=" " alt="" coords="372,1824,513,1851"/>
+<area shape="rect" id="node10" href="$group__mouse.html#ga438b8afe1dcd09d29df6de0081705660" title=" " alt="" coords="341,1774,544,1800"/>
+<area shape="rect" id="node11" href="$group__mouse.html#ga3ecf823d80520009ae5e0d76ae40a3c3" title=" " alt="" coords="363,1875,522,1902"/>
+<area shape="rect" id="node12" href="$group__rtc.html#gab8f17bf5280c908c8b199a90fefcc758" title="Unsubscribes RTC 8 interrupts." alt="" coords="375,1926,510,1952"/>
+<area shape="rect" id="node13" href="$group__timer.html#gafabd21de449be154dd65d5fdb2d8045d" title="Unsubscribes Timer 0 interrupts." alt="" coords="368,1976,517,2003"/>
+<area shape="rect" id="node15" href="$group__game.html#gafc22799ff9f1124c8f6d4f57d60b2f51" title="Change the map of a Sprite to another picture." alt="" coords="393,760,493,787"/>
+<area shape="rect" id="node16" href="$group__game.html#gad367d2651ddf44f546f7cb280cbf3802" title="Changes the cursor." alt="" coords="393,811,493,838"/>
+<area shape="rect" id="node17" href="$group__game.html#ga7c2269b3a84e08431da9bcafa8bffd76" title="Changes the fruit position so it doesn&#39;t fall on the same place." alt="" coords="383,912,503,939"/>
+<area shape="rect" id="node18" href="$group__game.html#gac9821eaa9f8eb172eb575af106058b54" title="Checks if the cursor is on top of a button." alt="" coords="397,963,488,990"/>
+<area shape="rect" id="node19" href="$group__game.html#gab6439fcc57ab9cb6bdd74eff67bbb775" title="Checks if fruit touched the flor or the man." alt="" coords="385,1014,500,1040"/>
+<area shape="rect" id="node20" href="$group__game.html#gae3876ac6e290affc15502b37acdd94b1" title="Checks if the cursor has destroyed the fruit." alt="" coords="379,1064,507,1091"/>
+<area shape="rect" id="node21" href="$group__game.html#gaba2c7f3ce009c77a11f18c5bcb4e4618" title="Randomly chooses the food to fall." alt="" coords="395,1216,490,1243"/>
+<area shape="rect" id="node22" href="$group__game.html#ga572f04263843bfa2c7fc75c40e14f21b" title="Destroys the fruit." alt="" coords="400,152,485,179"/>
+<area shape="rect" id="node23" href="$group__highscores.html#ga248b01768cc81a529a30ddb935fc37d4" title="Updates the file where the points are written when the player loses." alt="" coords="383,203,502,230"/>
+<area shape="rect" id="node24" href="$group__game.html#ga90044fe413b2f9279d718184c79f9884" title="Draws the fruit on the screen." alt="" coords="404,254,481,280"/>
+<area shape="rect" id="node25" href="$group__sprite.html#ga858c1454a817fd7dca9e21bafa491242" title="This function draws a sprite on the screen." alt="" coords="601,431,689,458"/>
+<area shape="rect" id="node26" href="$group__game.html#ga4a1226d4e2a99b9251570348c7670641" title="Prepares the screen to exit the game." alt="" coords="401,1166,484,1192"/>
+<area shape="rect" id="node28" href="$group__game.html#ga7e699ef004ed7fbe7704d437b4b55284" title="Draws the backgroung of the game on the screen with the pause button." alt="" coords="379,304,506,331"/>
+<area shape="rect" id="node30" href="$group__mainmenu.html#ga04895ab05b6c5a5351fc28477d41d6ab" title="This function shows the game over menu and the necessary buttons." alt="" coords="363,355,523,382"/>
+<area shape="rect" id="node31" href="$mainmenu_8c.html#aa775873503da6eb23e9d9be4090824c2" title=" " alt="" coords="360,406,525,432"/>
+<area shape="rect" id="node32" href="$group__game.html#gac04d0e687ab074cc7f0235eea84f77ef" title="Draws the hearts on the screen." alt="" coords="401,456,485,483"/>
+<area shape="rect" id="node33" href="$group__game.html#ga8eeba02c592331fc4dc0bd3706dc24db" title="Draws the player on the screen." alt="" coords="401,507,485,534"/>
+<area shape="rect" id="node34" href="$group__mainmenu.html#gaf67480724089637b55a8148566870f16" title="This function shows the menu of the game and the necessary buttons." alt="" coords="397,558,488,584"/>
+<area shape="rect" id="node35" href="$group__mainmenu.html#gaa189fd45f846dd118a06e09e9f330671" title="This function shows the pause and the necessary buttons." alt="" coords="376,608,509,635"/>
+<area shape="rect" id="node36" href="$group__highscores.html#gaa7354914bc332dd365fc8e21bc648587" title="Shows the points that the player is making in the game." alt="" coords="395,659,490,686"/>
+<area shape="rect" id="node37" href="$group__highscores.html#ga1f5121701b8f4882c2a04d18a9ce2abb" title="Shows the highscore table and the date that the point were made." alt="" coords="397,862,488,888"/>
+<area shape="rect" id="node38" href="$group__game.html#gadcaf3dad272a0c5e8d9ffa89823ede2a" title="Updates the cursor on the screan upon movement." alt="" coords="391,710,495,736"/>
+<area shape="rect" id="node40" href="$group__keyboard.html#ga4ac9231a99a664d6a9f0b69767e0d707" title=" " alt="" coords="379,1520,506,1547"/>
+<area shape="rect" id="node41" href="$group__mouse.html#ga20285aed4b3ef45812cd967532dd09db" title=" " alt="" coords="370,1571,515,1598"/>
+<area shape="rect" id="node42" href="$group__rtc.html#ga5171a9c0f54940fe60f7500896afcc86" title="Subscribes and enables RTC 8 interrupts." alt="" coords="382,1622,503,1648"/>
+<area shape="rect" id="node43" href="$group__timer.html#gac57a7e1140a7e00ad95ac5488d2a671b" title="Subscribes and enables Timer 0 interrupts." alt="" coords="375,1672,510,1699"/>
+</map>

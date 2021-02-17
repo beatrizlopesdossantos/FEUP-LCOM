@@ -1,0 +1,5 @@
+<map id="check_colisions" name="check_colisions">
+<area shape="rect" id="node1" title="Checks if fruit touched the flor or the man." alt="" coords="5,5,120,32"/>
+<area shape="rect" id="node2" href="$group__sprite.html#gaed4c55752c011c845c8ba16545ef146d" title="This function destroys a food created before." alt="" coords="168,5,264,32"/>
+<area shape="rect" id="node3" href="$group__sprite.html#gaf16c6befaac9ffb673b9e3c798d542ed" title="This function destroys a sprite created before." alt="" coords="312,5,416,32"/>
+</map>

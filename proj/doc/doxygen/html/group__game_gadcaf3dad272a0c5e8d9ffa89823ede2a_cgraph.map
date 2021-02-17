@@ -1,0 +1,5 @@
+<map id="update_cursor" name="update_cursor">
+<area shape="rect" id="node1" title="Updates the cursor on the screan upon movement." alt="" coords="5,5,109,32"/>
+<area shape="rect" id="node2" href="$group__sprite.html#ga81c1d1d394c57f8cd88ab18fd947773e" title="This function updates the screen with the movement of the sprites." alt="" coords="157,5,251,32"/>
+<area shape="rect" id="node3" href="$group__video.html#ga599c36a256152375631d859d2ae4810c" title="Colors the pixel with the position indicated." alt="" coords="299,5,401,32"/>
+</map>

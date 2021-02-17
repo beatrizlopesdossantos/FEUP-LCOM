@@ -1,0 +1,5 @@
+<map id="show_instructions_menu" name="show_instructions_menu">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,171,32"/>
+<area shape="rect" id="node2" href="$group__sprite.html#ga858c1454a817fd7dca9e21bafa491242" title="This function draws a sprite on the screen." alt="" coords="219,5,307,32"/>
+<area shape="rect" id="node3" href="$group__video.html#ga599c36a256152375631d859d2ae4810c" title="Colors the pixel with the position indicated." alt="" coords="355,5,457,32"/>
+</map>

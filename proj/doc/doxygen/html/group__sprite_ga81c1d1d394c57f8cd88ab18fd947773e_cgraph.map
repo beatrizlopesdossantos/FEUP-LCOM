@@ -1,0 +1,4 @@
+<map id="erase_sprite" name="erase_sprite">
+<area shape="rect" id="node1" title="This function updates the screen with the movement of the sprites." alt="" coords="5,5,99,32"/>
+<area shape="rect" id="node2" href="$group__video.html#ga599c36a256152375631d859d2ae4810c" title="Colors the pixel with the position indicated." alt="" coords="147,5,249,32"/>
+</map>

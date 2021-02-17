@@ -1,0 +1,6 @@
+<map id="create_food" name="create_food">
+<area shape="rect" id="node1" title="This function creates the food with the corresponding xpm." alt="" coords="417,5,507,32"/>
+<area shape="rect" id="node2" href="$group__game.html#gaba2c7f3ce009c77a11f18c5bcb4e4618" title="Randomly chooses the food to fall." alt="" coords="275,5,369,32"/>
+<area shape="rect" id="node3" href="$group__game.html#gad378897028322988691f83db390b70b4" title="Main function of the project that does all the logic of the game." alt="" coords="163,5,227,32"/>
+<area shape="rect" id="node4" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,5,115,32"/>
+</map>
